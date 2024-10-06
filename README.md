@@ -25,7 +25,6 @@ An AI-powered web scraper built using Python that extracts data from websites in
 - BeautifulSoup
 - Requests
 - Pandas
-- (Add any additional libraries you used)
 
 ## Installation
 
